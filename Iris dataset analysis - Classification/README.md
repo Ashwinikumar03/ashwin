@@ -15,3 +15,5 @@ The data set contains 3 classes of 50 instances each, where each class refers to
 5. species: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
 
 **Download link:** https://www.kaggle.com/uciml/iris
+
+Aim:- Predict the species of iris. Target variable is species. Value 0 is Iris Setosa, value 1 is Iris Versicolour and value 2 is Iris Virginica
