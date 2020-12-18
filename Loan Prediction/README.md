@@ -25,3 +25,5 @@ Property_Area | Urban/ Semi Urban/ Rural
 Loan_Status | Loan approved (Y/N)
 
 **Download link:** https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset
+ 
+Aim:- Predict the loan status which target variable. If value is 1 it's yes or no i.e 0 value
