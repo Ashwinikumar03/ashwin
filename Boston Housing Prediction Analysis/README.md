@@ -26,4 +26,5 @@ Boston Housing Dataset Attribute Information (in order):
 
 **Download link:** https://www.kaggle.com/puxama/bostoncsv
 
+Aim :- Predict the price of house in Boston. The target variable is MEDV.
 
