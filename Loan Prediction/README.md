@@ -25,19 +25,3 @@ Property_Area | Urban/ Semi Urban/ Rural
 Loan_Status | Loan approved (Y/N)
 
 **Download link:** https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset
-
-# Libraries
-
-<li>pandas
-<li>matplotlib
-<li>seaborn
-<li>scikit-learn
-
-# Algorithms
-
-<li>Logistic Regression
-<li>Decision Tree
-<li>Random Forest
-<li>Extra Tress
-  
-**Best Model Accuracy:** 81.00
