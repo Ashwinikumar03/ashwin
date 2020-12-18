@@ -26,19 +26,4 @@ Boston Housing Dataset Attribute Information (in order):
 
 **Download link:** https://www.kaggle.com/puxama/bostoncsv
 
-# Libraries
 
-<li>pandas
-<li>matplotlib
-<li>seaborn
-<li>scikit-learn
-
-# Algorithms
-
-<li>Linear Regression
-<li>Decision Tree
-<li>Random Forest
-<li>Extra Tress
-<li>XGBoost
-  
-**Mean Squared Error:** 10.0
